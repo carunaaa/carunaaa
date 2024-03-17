@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Languages and Tools</title>
 
+Languages and Tools
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" class="icon">
