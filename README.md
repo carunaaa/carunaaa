@@ -13,7 +13,6 @@
  
  🌱 I’m currently learning **TypeScript, Redux**
 
-
  </div>
  
 <div align="center"> 
