@@ -1,5 +1,3 @@
-
-Languages and Tools
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" class="icon">
@@ -31,5 +29,3 @@ Languages and Tools
   </a>
 </p>
 
-</body>
-</html>
