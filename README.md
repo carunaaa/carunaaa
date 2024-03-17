@@ -4,14 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Languages and Tools</title>
-<style>
-  /* Add margin between icons */
-  .icon {
-    margin-right: 10px;
-  }
-</style>
-</head>
-<body>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
