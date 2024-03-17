@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on ** A React Project**
+ 🔭 I’m currently working on **A React Project**
  
  🌱 I’m currently learning **TypeScript, Redux**
 
