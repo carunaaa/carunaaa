@@ -9,7 +9,7 @@
  
  🔭 I’m currently working on **A React Project**
  
- 🌱 I’m currently learning **TypeScript, Redux**
+ 🌱 I’m currently learning **TypeScript**
 
 
  </div>
